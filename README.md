@@ -3,10 +3,13 @@
 Welcome to the E-commerce Website project! This README file provides an overview of the project, its technologies, and its current status.
 
 Introduction
+
 The E-commerce Website project is aimed at creating a full-fledged e-commerce platform that provides users with a seamless online shopping experience. The project is divided into two main parts: the backend, which handles data management and serves API endpoints, and the frontend, responsible for interacting with users.
 
 Technologies Used
+
 Backend
+
 Node.js: A runtime environment for building server-side logic.
 Express.js: A web application framework for Node.js, used to create robust APIs.
 MongoDB: A NoSQL database for storing and managing application data.
@@ -34,7 +37,8 @@ Start the frontend development server: npm run start
 Currently Working On
 The project is currently focused on two main tasks:
 
-Frontend Development: The frontend is being developed using React and Redux to create an interactive user interface. Users can browse products, add them to their carts, and proceed to checkout.
+Frontend Development: 
+The frontend is being developed using React and Redux to create an interactive user interface. Users can browse products, add them to their carts, and proceed to checkout.
 
 Payment Gateway Integration (Backend): Integration of a payment gateway into the backend for secure payment processing.
 
